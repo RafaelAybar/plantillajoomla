@@ -8,8 +8,10 @@
 <link rel="stylesheet" href="<?php echo $this->baseurl ?>css/plantilla.css/<?php echo $this->template; ?>css/plantilla.css" type="text/css" />
 </head>
 <body>
-<jdoc:include type="modules" name="top" /> 
+<jdoc:include type="modules" name="top" />
+<jdoc:include type="modules" name="right" />
+<jdoc:include type="modules" name="left" />
 <jdoc:include type="component" />
-<jdoc:include type="modules" name="bottom" />
+<jdoc:include type="modules" name="footer" />
 </body>
 </html>
