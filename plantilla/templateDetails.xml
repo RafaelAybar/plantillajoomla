@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3.0//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.0" type="template" client="site">
+<name>plantillajoomla</name>
+<creationDate>2018-4-01</creationDate>
+<author>Rafael Aybar Segura y Ángel Jesús Principal</author>
+<authorEmail>plantillajoola@joomla.comm</authorEmail>
+<authorUrl>http://www.blog.com</authorUrl>
+<copyright>Rafa-Ángel</copyright>
+<license>GNU/GPL</license>
+<version>1.0.2</version>
+<description>Esta es nuestra plantilla definitiva</description>
+<files>
+<filename>index.php</filename>
+<filename>templateDetails.xml</filename>
+<folder>css</folder>
+<folder>img</folder>
+<folder>js</folder>
+</files>
+<positions>
+<position>mainmenu</position>
+<position>left</position>
+<position>right</position>
+</positions>
+</extension>
